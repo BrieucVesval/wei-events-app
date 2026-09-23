@@ -18,5 +18,5 @@ npx expo start
 cd backend && npm install && node server.js    # creates WeildWeeks.db next to database.js
 ```
 
-## Credits
-[TODO: team members]
+## Team
+Amin Belkfira, Noe Madranges, Jeremie Risler, Brieuc Vesval.
